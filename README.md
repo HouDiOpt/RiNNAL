@@ -24,8 +24,8 @@ subject to Ax = b
            A X = b x'  
            diag(X)_B = x_B  
            X_E = 0  
-           X ≥ 0   (nonnegative)
-           X ⪰ 0   (positive semidefinite)  
+           Y ≥ 0                    (nonnegative)
+           Y := [1, x'; x, X] ⪰ 0   (positive semidefinite)  
 ```
 
 ------
