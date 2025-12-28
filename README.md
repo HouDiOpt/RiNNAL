@@ -38,8 +38,9 @@ subject to Ax = b
 @article{hou2025low,
   title={A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs},
   author={Hou, Di and Tang, Tianyun and Toh, Kim-Chuan},
-  journal={arXiv preprint arXiv:2502.13849},
-  year={2025}
+  journal={Operations Research},
+  year={2025},
+  publisher={INFORMS}
 }
 ```
 
